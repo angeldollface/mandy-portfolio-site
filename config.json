@@ -1,0 +1,19 @@
+{
+    "title": "Mandy Portfolio Site",
+    "description": "A beautiful minimalistic portfolio site template for Mandy-powered projects.",
+    "prod_url": "/mandy-portfolio-site",
+    "dev_url": "",
+    "keywords": "static-site-generator mandy rust template liquid open-source mit-license",
+    "closingText": "Close",
+    "menuText": "Menu",
+    "updateFreq": "weekly",
+    "tlDomain": "https://angeldollface.art",
+    "copyFiles": "true=>assets",
+    "logo": "https://avatars.githubusercontent.com/u/112771657?v=4",
+    "motto": "A beautiful, modern, and minimalist portfolio template for the Mandy SSG.",
+    "footerText": "Mandy Portfolio Site (C) Angel Dollface",
+    "hasLoopContent": "true",
+    "loopContentDirs": "products",
+    "readMeText": "Read",
+    "mandyIcon": "https://angeldollface.art/doll-cdn/images/mandy/mandy-icon-white.svg"
+}

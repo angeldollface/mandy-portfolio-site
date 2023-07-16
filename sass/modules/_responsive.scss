@@ -1,0 +1,84 @@
+/*
+MANDY PORTFOLIO SITE by Alexander Abraham a.k.a. "Angel Dollface".
+Licensed under the MIT license.
+*/
+
+// This file styles the responsive view
+// of this site.
+@media screen and (max-width: 800px){
+    img.logo {
+        width: 40px;
+        height: 40px;
+    }
+    img.menu_icon {
+        width: 40px;
+        height: 40px;
+    }
+    h1.landing {
+        padding-top: 35vh;
+        font-size: 50px;
+    }
+    p.landing {
+        font-size: 25px;
+    }
+    img.product_image {
+        float:none;
+        height: 50vh;
+        width: 100vw;
+    }
+    div.product_description {
+        float:none;
+        height: 50vh;
+        width: 100vw;
+    }
+    h2.product_description {
+        font-size: 35px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10vh;
+    }
+    p.product_description {
+        font-size: 25px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+    }
+    button.product_description {
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    p.footer {
+        padding: 20px;
+        font-size: 20px;
+    }
+    div.content {
+        width: 90%;
+    }
+    h2 {
+        font-size: 33px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    h4 {
+        font-size: 27px;
+    }
+    p {
+        font-size: 25px;
+    }
+    a {
+        font-size: 25px;
+    }
+    h2.page_title {
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+    ul.nav {
+        margin-top: 25vh;
+    }
+    a.nav {
+        font-size: 25px;
+    }
+}
