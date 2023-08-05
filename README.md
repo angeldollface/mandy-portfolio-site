@@ -2,7 +2,7 @@
 
 [![Mandy CI](https://github.com/angeldollface/mandy-portfolio-site/actions/workflows/main.yml/badge.svg)](https://github.com/angeldollface/mandy-portfolio-site/actions/workflows/main.yml)
 
-***The default template site for creating new Mandy-powered sites. :fire: :nail_care:***
+***A beautiful image-rich Mandy template site for creating portfolio websites. :fire: :nail_care:***
 
 ## ABOUT :books:
 
