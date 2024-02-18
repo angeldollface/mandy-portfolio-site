@@ -7,7 +7,7 @@
     "closingText": "Close",
     "menuText": "Menu",
     "updateFreq": "weekly",
-    "tlDomain": "https://angeldollface.art",
+    "tlDomain": "https://angeldollface.boo",
     "copyFiles": "true=>assets",
     "logo": "https://avatars.githubusercontent.com/u/112771657?v=4",
     "motto": "A beautiful, modern, and minimalist portfolio template for the Mandy SSG.",
@@ -15,5 +15,5 @@
     "hasLoopContent": "true",
     "loopContentDirs": "products",
     "readMeText": "Read",
-    "mandyIcon": "https://angeldollface.art/doll-cdn/images/mandy/mandy-icon-white.svg"
+    "mandyIcon": "https://angeldollface.boo/doll-cdn/images/mandy/mandy-icon-white.svg"
 }
